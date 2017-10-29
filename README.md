@@ -1,8 +1,6 @@
-# README
+#  Welcome to Hawk Set
 
-##  Welcome to Hawk Set
-
-Our Hawk Set project is a Set card game clone. It's an online solo game that tests your matching and set creation skills.
+An online solo game that tests your matching and set creation skills.
 
 Goal: Race against the clock to select as many valid sets as you can, as quickly as possible.
 
